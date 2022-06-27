@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sefaun&color=brightgreen)
+
 ### Hi there 👋
 
 <!--
