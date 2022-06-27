@@ -12,7 +12,6 @@ const myInformation = {
 ```
 
 [![GitHub Abidirettim](https://img.shields.io/github/followers/abidirettim?label=follow&style=social)](https://github.com/abidirettim)
-[![Git]]
 
 ---
 ### <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="30"> Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
